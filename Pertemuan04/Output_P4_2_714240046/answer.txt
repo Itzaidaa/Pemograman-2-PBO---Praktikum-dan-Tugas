@@ -1,0 +1,41 @@
+1. Jelaskan class apa saja yang dibuat dan fungsinya!
+Service_714240046
+Class abstract sebagai induk untuk semua layanan biro perjalanan waktu. Berisi atribut Name, Price, method umum ShowInfo(),
+dan method abstrak Describe().
+TimeTrip_714240046
+Class turunan dari Service_NPM yang mewakili layanan perjalanan waktu. 
+Menambahkan atribut YearDestination dan RoundTrip.
+ChronoSouvenir_714240046
+Class turunan dari Service_NPM yang mewakili produk suvenir lintas waktu. 
+Menambahkan atribut EraTag dan IsTimeSafe.
+AgencyTest_714240046
+Class utama berisi method Main() untuk menguji semua class di atas. 
+Menunjukkan implementasi polymorphism melalui array Service_714240046[].
+
+2. Jelaskan konsep OOP apa saja yang digunakan dalam program ini!
+Encapsulation
+Field name dan price disembunyikan (private) di Service_NPM, diakses hanya lewat Property (Name dan Price).
+Abstraction
+Class Service_NPM dibuat sebagai abstract, tidak dapat dibuat objeknya langsung, dan memiliki method abstrak Describe() yang harus dioverride oleh class turunannya.
+Inheritance
+TimeTrip_NPM dan ChronoSouvenir_NPM mewarisi seluruh atribut dan method dari Service_714240046.
+Polymorphism
+Method Describe() diimplementasikan berbeda di tiap subclass (trip waktu dan suvenir). Program utama memanggil Describe() melalui referensi Service_714240046.
+Constructor
+Tiap class punya constructor untuk mengisi data awal. Subclass memanggil constructor induk dengan base(...).
+
+3. Jelaskan fungsi dari method ShowInfo() dan Describe()!
+ShowInfo() → menampilkan nama dan harga dari suatu layanan.
+Contoh output:
+
+[Layanan] Renaissance Experience = Harga: Rp15.000.000,00
+
+Describe() → menjelaskan detail spesifik dari masing-masing layanan.
+Contoh override di TimeTrip_714240046:
+
+Trip ke tahun 1503 (Pulang-Pergi). Tips: hindari paradox dengan tidak menyapa diri sendiri 😉
+
+5. Kesimpulan
+
+Program ini berhasil menunjukkan penerapan pilar utama OOP (Encapsulation, Abstraction, Inheritance, Polymorphism) dengan tema kreatif “Biro Perjalanan Waktu.”
+Melalui penggunaan class abstract, method override, dan property, program menjadi fleksibel dan mudah dikembangkan tanpa mengubah struktur utama.

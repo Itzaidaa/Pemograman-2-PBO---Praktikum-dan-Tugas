@@ -1,8 +1,0 @@
-C:\Users\FaihaFairuz\source\repos\P4_714240046\P4_714240046\bin\Debug\P4_714240046.exe.config
-C:\Users\FaihaFairuz\source\repos\P4_714240046\P4_714240046\bin\Debug\P4_714240046.exe
-C:\Users\FaihaFairuz\source\repos\P4_714240046\P4_714240046\bin\Debug\P4_714240046.pdb
-C:\Users\FaihaFairuz\source\repos\P4_714240046\P4_714240046\obj\Debug\P4_714240046.csproj.AssemblyReference.cache
-C:\Users\FaihaFairuz\source\repos\P4_714240046\P4_714240046\obj\Debug\P4_714240046.csproj.CoreCompileInputs.cache
-C:\Users\FaihaFairuz\source\repos\P4_714240046\P4_714240046\obj\Debug\P4_714240046.exe
-C:\Users\FaihaFairuz\source\repos\P4_714240046\P4_714240046\obj\Debug\P4_714240046.pdb
-C:\Users\FaihaFairuz\source\repos\P4_714240046\P4_714240046\obj\Debug\P4_714240046.exe.config

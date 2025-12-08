@@ -1,0 +1,11 @@
+C:\Users\FaihaFairuz\source\repos\P5_4_714240046\P5_4_714240046\obj\Debug\P5_4_714240046.csproj.AssemblyReference.cache
+C:\Users\FaihaFairuz\source\repos\P5_4_714240046\P5_4_714240046\obj\Debug\P5_4_714240046.Form1.resources
+C:\Users\FaihaFairuz\source\repos\P5_4_714240046\P5_4_714240046\obj\Debug\P5_4_714240046.Properties.Resources.resources
+C:\Users\FaihaFairuz\source\repos\P5_4_714240046\P5_4_714240046\obj\Debug\P5_4_714240046.csproj.GenerateResource.cache
+C:\Users\FaihaFairuz\source\repos\P5_4_714240046\P5_4_714240046\obj\Debug\P5_4_714240046.csproj.CoreCompileInputs.cache
+C:\Users\FaihaFairuz\source\repos\P5_4_714240046\P5_4_714240046\bin\Debug\P5_4_714240046.exe.config
+C:\Users\FaihaFairuz\source\repos\P5_4_714240046\P5_4_714240046\bin\Debug\P5_4_714240046.exe
+C:\Users\FaihaFairuz\source\repos\P5_4_714240046\P5_4_714240046\bin\Debug\P5_4_714240046.pdb
+C:\Users\FaihaFairuz\source\repos\P5_4_714240046\P5_4_714240046\obj\Debug\P5_4_714240046.exe
+C:\Users\FaihaFairuz\source\repos\P5_4_714240046\P5_4_714240046\obj\Debug\P5_4_714240046.pdb
+C:\Users\FaihaFairuz\source\repos\P5_4_714240046\P5_4_714240046\obj\Debug\P5_4_714240046.exe.config

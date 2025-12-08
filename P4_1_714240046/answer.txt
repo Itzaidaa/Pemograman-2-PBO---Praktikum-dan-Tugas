@@ -1,5 +1,0 @@
-1. Pesan kesalahan muncul karena kelas Product_NPM belum memiliki deklarasi method DisplayInfo() yang bisa diolah oleh kelas Book_NPM.
-Setelah diperbaiki program bisa berjalan dan menampilkan teks "Book" di layar.
-2. itu terjadi karena field di MyType di class Product_714240046 belum diberi nilai.
-3. Jadi, kata “DVD” muncul karena nilai properti Mytype pada objek myProduct diubah secara eksplisit sebelum dicetak.
-4. 

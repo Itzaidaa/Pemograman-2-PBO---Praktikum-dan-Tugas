@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FaihaFairuz\\source\\repos\\StartUp.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3C50EF-B30A-4CB1-B594-5839D64D36FB}|StartUp.cs\\P12_714240046.cs.csproj|c:\\users\\faihafairuz\\source\\repos\\startup.cs\\startup.cs\\view\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3C50EF-B30A-4CB1-B594-5839D64D36FB}|StartUp.cs\\P12_714240046.cs.csproj|solutionrelative:startup.cs\\view\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3C50EF-B30A-4CB1-B594-5839D64D36FB}|StartUp.cs\\P12_714240046.cs.csproj|c:\\users\\faihafairuz\\source\\repos\\startup.cs\\startup.cs\\view\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE3C50EF-B30A-4CB1-B594-5839D64D36FB}|StartUp.cs\\P12_714240046.cs.csproj|solutionrelative:startup.cs\\view\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3C50EF-B30A-4CB1-B594-5839D64D36FB}|StartUp.cs\\P12_714240046.cs.csproj|c:\\users\\faihafairuz\\source\\repos\\startup.cs\\startup.cs\\view\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3C50EF-B30A-4CB1-B594-5839D64D36FB}|StartUp.cs\\P12_714240046.cs.csproj|solutionrelative:startup.cs\\view\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3C50EF-B30A-4CB1-B594-5839D64D36FB}|StartUp.cs\\P12_714240046.cs.csproj|c:\\users\\faihafairuz\\source\\repos\\startup.cs\\startup.cs\\view\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE3C50EF-B30A-4CB1-B594-5839D64D36FB}|StartUp.cs\\P12_714240046.cs.csproj|solutionrelative:startup.cs\\view\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3C50EF-B30A-4CB1-B594-5839D64D36FB}|StartUp.cs\\P12_714240046.cs.csproj|c:\\users\\faihafairuz\\source\\repos\\startup.cs\\startup.cs\\ceklogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3C50EF-B30A-4CB1-B594-5839D64D36FB}|StartUp.cs\\P12_714240046.cs.csproj|solutionrelative:startup.cs\\ceklogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3C50EF-B30A-4CB1-B594-5839D64D36FB}|StartUp.cs\\P12_714240046.cs.csproj|c:\\users\\faihafairuz\\source\\repos\\startup.cs\\startup.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3C50EF-B30A-4CB1-B594-5839D64D36FB}|StartUp.cs\\P12_714240046.cs.csproj|solutionrelative:startup.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3C50EF-B30A-4CB1-B594-5839D64D36FB}|StartUp.cs\\P12_714240046.cs.csproj|c:\\users\\faihafairuz\\source\\repos\\startup.cs\\startup.cs\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3C50EF-B30A-4CB1-B594-5839D64D36FB}|StartUp.cs\\P12_714240046.cs.csproj|solutionrelative:startup.cs\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3C50EF-B30A-4CB1-B594-5839D64D36FB}|StartUp.cs\\P12_714240046.cs.csproj|c:\\users\\faihafairuz\\source\\repos\\startup.cs\\startup.cs\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE3C50EF-B30A-4CB1-B594-5839D64D36FB}|StartUp.cs\\P12_714240046.cs.csproj|solutionrelative:startup.cs\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3C50EF-B30A-4CB1-B594-5839D64D36FB}|StartUp.cs\\P12_714240046.cs.csproj|c:\\users\\faihafairuz\\source\\repos\\startup.cs\\startup.cs\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3C50EF-B30A-4CB1-B594-5839D64D36FB}|StartUp.cs\\P12_714240046.cs.csproj|solutionrelative:startup.cs\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3C50EF-B30A-4CB1-B594-5839D64D36FB}|StartUp.cs\\P12_714240046.cs.csproj|c:\\users\\faihafairuz\\source\\repos\\startup.cs\\startup.cs\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE3C50EF-B30A-4CB1-B594-5839D64D36FB}|StartUp.cs\\P12_714240046.cs.csproj|solutionrelative:startup.cs\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\FaihaFairuz\\source\\repos\\StartUp.cs\\StartUp.cs\\View\\FormLogin.cs",
+              "RelativeDocumentMoniker": "StartUp.cs\\View\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\FaihaFairuz\\source\\repos\\StartUp.cs\\StartUp.cs\\View\\FormLogin.cs",
+              "RelativeToolTip": "StartUp.cs\\View\\FormLogin.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA+wD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:49:30.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FaihaFairuz\\source\\repos\\StartUp.cs\\StartUp.cs\\Program.cs",
+              "RelativeDocumentMoniker": "StartUp.cs\\Program.cs",
+              "ToolTip": "C:\\Users\\FaihaFairuz\\source\\repos\\StartUp.cs\\StartUp.cs\\Program.cs",
+              "RelativeToolTip": "StartUp.cs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:43:22.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FaihaFairuz\\source\\repos\\StartUp.cs\\StartUp.cs\\View\\StartUp.cs",
+              "RelativeDocumentMoniker": "StartUp.cs\\View\\StartUp.cs",
+              "ToolTip": "C:\\Users\\FaihaFairuz\\source\\repos\\StartUp.cs\\StartUp.cs\\View\\StartUp.cs [Design]",
+              "RelativeToolTip": "StartUp.cs\\View\\StartUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:15:30.914Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\FaihaFairuz\\source\\repos\\StartUp.cs\\StartUp.cs\\View\\StartUp.cs",
+              "RelativeDocumentMoniker": "StartUp.cs\\View\\StartUp.cs",
+              "ToolTip": "C:\\Users\\FaihaFairuz\\source\\repos\\StartUp.cs\\StartUp.cs\\View\\StartUp.cs",
+              "RelativeToolTip": "StartUp.cs\\View\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAnwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:35:22.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CekLogin.cs",
+              "DocumentMoniker": "C:\\Users\\FaihaFairuz\\source\\repos\\StartUp.cs\\StartUp.cs\\CekLogin.cs",
+              "RelativeDocumentMoniker": "StartUp.cs\\CekLogin.cs",
+              "ToolTip": "C:\\Users\\FaihaFairuz\\source\\repos\\StartUp.cs\\StartUp.cs\\CekLogin.cs",
+              "RelativeToolTip": "StartUp.cs\\CekLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:18:48.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FaihaFairuz\\source\\repos\\StartUp.cs\\StartUp.cs\\View\\FormLogin.cs",
+              "RelativeDocumentMoniker": "StartUp.cs\\View\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\FaihaFairuz\\source\\repos\\StartUp.cs\\StartUp.cs\\View\\FormLogin.cs [Design]",
+              "RelativeToolTip": "StartUp.cs\\View\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:35:58.466Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "C:\\Users\\FaihaFairuz\\source\\repos\\StartUp.cs\\StartUp.cs\\Koneksi.cs",
+              "RelativeDocumentMoniker": "StartUp.cs\\Koneksi.cs",
+              "ToolTip": "C:\\Users\\FaihaFairuz\\source\\repos\\StartUp.cs\\StartUp.cs\\Koneksi.cs",
+              "RelativeToolTip": "StartUp.cs\\Koneksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:17:30.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "C:\\Users\\FaihaFairuz\\source\\repos\\StartUp.cs\\StartUp.cs\\View\\ParentForm.cs",
+              "RelativeDocumentMoniker": "StartUp.cs\\View\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\FaihaFairuz\\source\\repos\\StartUp.cs\\StartUp.cs\\View\\ParentForm.cs",
+              "RelativeToolTip": "StartUp.cs\\View\\ParentForm.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADgvxYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:41:36.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FaihaFairuz\\source\\repos\\StartUp.cs\\StartUp.cs\\View\\ParentForm.cs",
+              "RelativeDocumentMoniker": "StartUp.cs\\View\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\FaihaFairuz\\source\\repos\\StartUp.cs\\StartUp.cs\\View\\ParentForm.cs [Design]",
+              "RelativeToolTip": "StartUp.cs\\View\\ParentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:40:53.623Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FaihaFairuz\\source\\repos\\StartUp.cs\\StartUp.cs\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "StartUp.cs\\View\\Form1.cs",
+              "ToolTip": "C:\\Users\\FaihaFairuz\\source\\repos\\StartUp.cs\\StartUp.cs\\View\\Form1.cs [Design]",
+              "RelativeToolTip": "StartUp.cs\\View\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:05:02.716Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
